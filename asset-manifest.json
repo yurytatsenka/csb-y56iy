@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "https://yurytatsenka.github.io/csb-y56iy/static/css/main.4f11939e.chunk.css",
+    "main.js": "https://yurytatsenka.github.io/csb-y56iy/static/js/main.42468009.chunk.js",
+    "main.js.map": "https://yurytatsenka.github.io/csb-y56iy/static/js/main.42468009.chunk.js.map",
+    "runtime~main.js": "https://yurytatsenka.github.io/csb-y56iy/static/js/runtime~main.ea8cff1c.js",
+    "runtime~main.js.map": "https://yurytatsenka.github.io/csb-y56iy/static/js/runtime~main.ea8cff1c.js.map",
+    "static/css/2.dfd58508.chunk.css": "https://yurytatsenka.github.io/csb-y56iy/static/css/2.dfd58508.chunk.css",
+    "static/js/2.00de470a.chunk.js": "https://yurytatsenka.github.io/csb-y56iy/static/js/2.00de470a.chunk.js",
+    "static/js/2.00de470a.chunk.js.map": "https://yurytatsenka.github.io/csb-y56iy/static/js/2.00de470a.chunk.js.map",
+    "index.html": "https://yurytatsenka.github.io/csb-y56iy/index.html",
+    "precache-manifest.15eba4413006c6954ea9c961f09c219d.js": "https://yurytatsenka.github.io/csb-y56iy/precache-manifest.15eba4413006c6954ea9c961f09c219d.js",
+    "service-worker.js": "https://yurytatsenka.github.io/csb-y56iy/service-worker.js",
+    "static/css/2.dfd58508.chunk.css.map": "https://yurytatsenka.github.io/csb-y56iy/static/css/2.dfd58508.chunk.css.map",
+    "static/css/main.4f11939e.chunk.css.map": "https://yurytatsenka.github.io/csb-y56iy/static/css/main.4f11939e.chunk.css.map",
+    "static/media/burger.png": "https://yurytatsenka.github.io/csb-y56iy/static/media/burger.3f2a4dae.png",
+    "static/media/floor.png": "https://yurytatsenka.github.io/csb-y56iy/static/media/floor.f5b6ed11.png",
+    "static/media/ground.png": "https://yurytatsenka.github.io/csb-y56iy/static/media/ground.65fd5b77.png",
+    "static/media/houses.png": "https://yurytatsenka.github.io/csb-y56iy/static/media/houses.fc41d8c4.png",
+    "static/media/kitchen.png": "https://yurytatsenka.github.io/csb-y56iy/static/media/kitchen.746323a4.png",
+    "static/media/picture.png": "https://yurytatsenka.github.io/csb-y56iy/static/media/picture.3f7c63c6.png",
+    "static/media/plate.png": "https://yurytatsenka.github.io/csb-y56iy/static/media/plate.8af72113.png",
+    "static/media/room.png": "https://yurytatsenka.github.io/csb-y56iy/static/media/room.cda649da.png",
+    "static/media/signboard.png": "https://yurytatsenka.github.io/csb-y56iy/static/media/signboard.08e91c43.png",
+    "static/media/table.png": "https://yurytatsenka.github.io/csb-y56iy/static/media/table.b17e6031.png",
+    "static/media/winner.png": "https://yurytatsenka.github.io/csb-y56iy/static/media/winner.aa4e1286.png",
+    "static/media/wooden-floor.png": "https://yurytatsenka.github.io/csb-y56iy/static/media/wooden-floor.6a9cdb6b.png"
+  }
+}
